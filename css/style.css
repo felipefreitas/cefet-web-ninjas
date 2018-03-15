@@ -1,0 +1,55 @@
+.logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 200px;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1, h2 {
+	font-family: system-ui;
+}
+
+a:link {
+	color: #2D4659;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #2D4659;
+}
+
+a:hover {
+	color: #3DBEDE;	
+	text-shadow: #2D4659 1px 0 10px;
+}
+
+a:active {
+	color: #3DBEDE;	
+}
+
+img.external-link {
+	background-image: url('img/globo.png');
+	background-repeat: no-repeat;
+	display: inline;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+em.note {
+	color: #8D8D8D;
+}
+
+
+.step {
+	font-size: 40px;
+	background-color: #2F555E;
+	padding: 5px;
+	color: #FEFEFE;
+	margin: 5px;
+}
